@@ -10,7 +10,6 @@
      - Check order details
 - ### Admin Role Action
      - Create, update, promote and disable user
-     - Check order details for all customer
 
 ## Technology
 
